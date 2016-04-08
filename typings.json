@@ -2,10 +2,7 @@
   "name": "dragula",
   "main": "index.d.ts",
   "homepage": "https://github.com/bevacqua/dragula",
-  "version": "",
-  "devDependencies": {
-    "blue-tape": "registry:npm/blue-tape#0.1.0+20160322235613"
-  },
+  "version": "^3.6.8",
   "ambientDevDependencies": {
     "node": "registry:dt/node#4.0.0+20160319033040"
   }
