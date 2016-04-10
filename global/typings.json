@@ -1,10 +1,7 @@
 {
   "name": "dragula",
   "main": "index.d.ts",
-  "homepage": "https://github.com/rniemeyer/knockout-postbox",
+  "homepage": "https://github.com/bevacqua/dragula",
   "version": "^3.6.8",
-  "ambient": true,
-  "ambientDependencies": {
-    "knockout": "registry:global/knockout#3.4.0+20160320223214"
-  }
+  "ambient": true
 }
